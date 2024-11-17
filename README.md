@@ -1,7 +1,5 @@
 # EX-10 CloudSim Working Overview
 
-This repository provides a comprehensive overview of CloudSim, a popular simulation toolkit used for modeling and experimenting with cloud computing environments and service models. The primary goal is to help researchers and developers understand and simulate complex cloud-based architectures, resources, and workflows using CloudSim.
-
 **Name** : Yuvaraj B<br>
 **Reg No** : 212222040186
 
