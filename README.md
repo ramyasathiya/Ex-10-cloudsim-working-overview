@@ -1,7 +1,7 @@
 # EX-10 CloudSim Working Overview
 
-**Name** : Yuvaraj B<br>
-**Reg No** : 212222040186
+**Name** : RAMYA S<br>
+**Reg No** : 212222040130
 
 ## Table of Contents
 1. [Introduction](#introduction)
